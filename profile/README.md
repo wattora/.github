@@ -2,7 +2,7 @@
 
 <div>
   <div>
-    <img src="docs/wattora-logo.png" alt="ion logo" style="float:left; width:50px; height:50px; margin-right:15px"/>
+    <img src="../docs/wattora-logo.png" alt="ion logo" style="float:left; width:50px; height:50px; margin-right:15px"/>
   </div>
   <div style="display: inline">
     <p>All electric mobility world in one place.</p>
